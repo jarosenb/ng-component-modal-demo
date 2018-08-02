@@ -1,0 +1,24 @@
+{
+  "name": "ng-classes",
+  "version": "1.0.0",
+  "description": "ng class demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-loader": "^0.5.5",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0",
+    "webpack-command": "^0.4.1",
+    "webpack-dev-server": "^3.1.5"
+  },
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.19",
+    "angular": "^1.7.2",
+    "angular-animate": "^1.7.2",
+    "angular-ui-bootstrap": "^2.5.6"
+  }
+}
